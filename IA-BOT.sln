@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IA-BOT", "IA-BOT\IA-BOT.csproj", "{3D0B1194-CE9F-48F5-BB6A-7F4DE2DFB12D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D0B1194-CE9F-48F5-BB6A-7F4DE2DFB12D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0B1194-CE9F-48F5-BB6A-7F4DE2DFB12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0B1194-CE9F-48F5-BB6A-7F4DE2DFB12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0B1194-CE9F-48F5-BB6A-7F4DE2DFB12D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {394BC6C7-707A-4B3D-B4E0-BA3745CCCF3C}
+	EndGlobalSection
+EndGlobal

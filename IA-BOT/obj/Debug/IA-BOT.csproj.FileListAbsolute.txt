@@ -1,0 +1,10 @@
+C:\Users\Abergo\source\repos\IA-BOT\IA-BOT\bin\Debug\IA-BOT.exe.config
+C:\Users\Abergo\source\repos\IA-BOT\IA-BOT\bin\Debug\IA-BOT.exe
+C:\Users\Abergo\source\repos\IA-BOT\IA-BOT\bin\Debug\IA-BOT.pdb
+C:\Users\Abergo\source\repos\IA-BOT\IA-BOT\obj\Debug\IA-BOT.csproj.AssemblyReference.cache
+C:\Users\Abergo\source\repos\IA-BOT\IA-BOT\obj\Debug\IA_BOT.Form1.resources
+C:\Users\Abergo\source\repos\IA-BOT\IA-BOT\obj\Debug\IA_BOT.Properties.Resources.resources
+C:\Users\Abergo\source\repos\IA-BOT\IA-BOT\obj\Debug\IA-BOT.csproj.GenerateResource.cache
+C:\Users\Abergo\source\repos\IA-BOT\IA-BOT\obj\Debug\IA-BOT.csproj.CoreCompileInputs.cache
+C:\Users\Abergo\source\repos\IA-BOT\IA-BOT\obj\Debug\IA-BOT.exe
+C:\Users\Abergo\source\repos\IA-BOT\IA-BOT\obj\Debug\IA-BOT.pdb
