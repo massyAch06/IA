@@ -20,7 +20,7 @@ namespace IA_BOT
         RichTextBox rbox = new RichTextBox();
         
 
-        string c1 = "salut"; 
+        string c1 = "salut";        
         string c8 = "coucou"; 
         string c9 = "Bonjour"; 
         string c10 = "Bonsoir"; 
@@ -31,8 +31,11 @@ namespace IA_BOT
         string c3 = "il est quel heure";
         string c4 = "on est quelle date";
         string c5 = "recherche google";
-        string c6 = "ouvre google chrome"; 
-        string c7 = "chrome";
+        string c6 = "ouvre google chrome";
+        string c7 = "ouvre chrome";
+        string c14 = "ouvre youtube";
+        string c15 = "ouvre gmail";
+        string c16 = "ouvre facebook";
         public Form1()
         {
             SpeechRecognitionEngine rec = new SpeechRecognitionEngine();
@@ -106,18 +109,31 @@ namespace IA_BOT
             {
                 Process.Start("chrome.exe");
             }
-            
+            if (r == c14)
+            {
+                Process.Start("www.youtube.com");
+            }
+            if (r == c15)
+            {
+                Process.Start("www.gmail.com");
+            }
+            if (r == c16)
+            {
+                Process.Start("www.facebook.com");
+            }
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
            
 
-            rbox.Location = new Point(13, 13);
-            rbox.ForeColor = Color.Black;
+            rbox.Location = new Point(236, 97);
+            rbox.ForeColor = Color.DarkGray;
+            
             rbox.ReadOnly = true;
             rbox.BorderStyle = BorderStyle.None;
-            rbox.Size = new Size(550, 230);
+            rbox.Size = new Size(278, 115);
             //rbox.Text = "!..Welcome to GeeksforGeeks..!";
             this.Controls.Add(rbox);
         }
@@ -162,6 +178,18 @@ namespace IA_BOT
             if (tr == c6 || tr == c7)
             {
                 Process.Start("chrome.exe");
+            }
+            if (tr == c14)
+            {
+                Process.Start("www.youtube.com");
+            }
+            if (tr == c15)
+            {
+                Process.Start("www.gmail.com");
+            }
+            if (tr == c16)
+            {
+                Process.Start("www.facebook.com");
             }
             richTextInput.Clear();
         }
